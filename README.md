@@ -1,6 +1,6 @@
 # Advanced Sample Hardhat Project--FundeMe Using HardHat
 
-This project demonstrates an advanced Hardhat use case, integrating other tools commonly used alongside Hardhat in the ecosystem.
+This project demonstrates an advanced Hardhat use case, integrating other tools commonly used alongside Hardhat in the ecosystem and 
 All basic concepts of solidty is used here..
 
 the front-end part of the project is yet to be done..
